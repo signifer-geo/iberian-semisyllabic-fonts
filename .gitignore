@@ -1,0 +1,6 @@
+*.ttf
+*.otf
+*.conf
+*.main.dict
+.DS_Store
+__pycache__/

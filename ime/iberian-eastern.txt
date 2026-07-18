@@ -1,0 +1,43 @@
+# Fcitx5 Table Code: Iberian Eastern
+Code=abcdefghijklmnopqrstuvwxyz
+Name=Iberian Eastern (Northeastern)
+Icon=input-keyboard
+
+[Data]
+a 𐨀
+e 𐨁
+i 𐨂
+o 𐨃
+u 𐨄
+ba 𐨌
+be 𐨍
+bi 𐨎
+bo 𐨏
+bu 𐨐
+ka 𐨟
+ke 𐨠
+ki 𐨡
+ko 𐨢
+ku 𐨣
+ga 𐨟
+ge 𐨠
+gi 𐨡
+go 𐨢
+gu 𐨣
+ta 𐨩
+te 𐨪
+ti 𐨫
+to 𐨬
+tu 𐨭
+da 𐨩
+de 𐨪
+di 𐨫
+do 𐨬
+du 𐨭
+z 𐨅
+s 𐨆
+r 𐨇
+rr 𐨈
+m 𐨉
+n 𐨊
+l 𐨋

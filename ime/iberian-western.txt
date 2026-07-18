@@ -1,0 +1,43 @@
+# Fcitx5 Table Code: Iberian Western
+Code=abcdefghijklmnopqrstuvwxyz
+Name=Iberian Western (Celtiberian)
+Icon=input-keyboard
+
+[Data]
+a 𐨀
+e 𐨁
+i 𐨂
+o 𐨃
+u 𐨄
+ba 𐨌
+be 𐨍
+bi 𐨎
+bo 𐨏
+bu 𐨐
+ka 𐨟
+ke 𐨠
+ki 𐨡
+ko 𐨢
+ku 𐨣
+ga 𐨤
+ge 𐨥
+gi 𐨦
+go 𐨧
+gu 𐨨
+ta 𐨩
+te 𐨪
+ti 𐨫
+to 𐨬
+tu 𐨭
+da 𐨮
+de 𐨯
+di 𐨰
+do 𐨱
+du 𐨲
+z 𐨅
+s 𐨆
+r 𐨇
+rr 𐨈
+m 𐨉
+n 𐨊
+l 𐨋

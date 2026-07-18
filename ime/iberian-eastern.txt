@@ -1,8 +1,9 @@
-# Fcitx5 Table Code: Iberian Eastern
-Code=abcdefghijklmnopqrstuvwxyz
-Name=Iberian Eastern (Northeastern)
-Icon=input-keyboard
-
+SC=iberian-eastern
+Name=Iberian Eastern
+Icon=fcitx-keyboard
+KeyCode=abcdefghijklmnopqrstuvwxyz
+Length=4
+AutoSend=True
 [Data]
 a 𐨀
 e 𐨁

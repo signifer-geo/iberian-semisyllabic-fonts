@@ -1,8 +1,9 @@
-# Fcitx5 Table Code: Iberian Western
-Code=abcdefghijklmnopqrstuvwxyz
-Name=Iberian Western (Celtiberian)
-Icon=input-keyboard
-
+SC=iberian-western
+Name=Iberian Western
+Icon=fcitx-keyboard
+KeyCode=abcdefghijklmnopqrstuvwxyz
+Length=4
+AutoSend=True
 [Data]
 a 𐨀
 e 𐨁
